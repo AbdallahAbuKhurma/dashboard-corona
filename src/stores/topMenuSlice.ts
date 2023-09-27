@@ -22,7 +22,7 @@ const initialState: TopMenuState = {
       title: "Dashboard",
     },
     {
-      icon: "Database",
+      icon: "Activity",
       pathname: "/charts",
       title: "Charts",
     },
